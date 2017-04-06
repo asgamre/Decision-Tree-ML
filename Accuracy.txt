@@ -1,0 +1,22 @@
+Accuracy before pruning for Entropy Heuristic: 
+74.65%
+
+Accuracy before pruning for Variance Impurity Heuristic: 
+77.0%
+
+
+Accuracy after Pruning for different values of L and K:
+
+Accuracy after pruning for Entropy Heuristic: 
+L=8 K=3 	75.6%
+L=5 K=1 	74.75%
+L=12 K=27 	74.65%
+L=12 K=7 	76.45%
+L=11 K=5 	78.2%
+
+Accuracy after pruning for Variance Impurity Heuristic: 
+L=6 K=3 	77.0%
+L=9 K=2 	77.6%
+L=11 K=2	78.45%
+L=4 K=2 	75.55%
+L=9 K=1 	78.7%
